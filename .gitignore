@@ -1,0 +1,8 @@
+# info
+/config
+/config/key.js
+
+# dependencies
+/node_modules
+
+.env
